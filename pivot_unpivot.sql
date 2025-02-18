@@ -1,3 +1,8 @@
+/*
+Script that gets the total sum for each category from a categorical column.
+It simulates a situation where there are boolean columns and it is needed to get the totals
+*/
+
 DECLARE payments STRING;
 DECLARE payments_str STRING;
 DECLARE payments_arr ARRAY<STRING>;
